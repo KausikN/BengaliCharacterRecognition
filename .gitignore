@@ -38,6 +38,5 @@ Thumbs.db
 
 # Dataset Images #
 ######################
-*.jpg
-*.jpeg
-*.png
+ExtDataset/
+TrainImages/
