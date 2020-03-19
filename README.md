@@ -14,6 +14,6 @@
  
   - <a href="https://github.com/Venkateshwar2506">Venkateshwar Raghavan</a>
  
-  - <a href="https://github.com/KausikN">RC Vignesh</a>
+  - <a href="https://github.com/Vignesh1399">RC Vignesh</a>
  
   - <a href="https://github.com/KausikN">Kausik Narayanan</a>
