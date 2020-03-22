@@ -12,7 +12,7 @@
  
  Done By, 
  
-  - <a href="https://github.com/Venkateshwar2506">Venkateshwar Raghavan</a>
+  - <a href="https://github.com/Venkateshwar2506">Venkateshwar Ragavan</a>
  
   - <a href="https://github.com/Vignesh1399">RC Vignesh</a>
  
